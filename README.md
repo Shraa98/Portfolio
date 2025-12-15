@@ -41,9 +41,9 @@ Portfolio/
 Check out a quick walkthrough of the portfolio functionality:
 
 
-[Watch the Demo Video](Portfolio-Demo.mp4)
+[![Watch the Demo Video](Heart-Disease-Prediction.png)](Portfolio-Demo.mp4)
 
-*(Note: To embed the video player directly in this README, please edit this file on GitHub.com and drag-and-drop the video file into the editor)*
+*(Click the image above to play the demo video)*
 
 
 ## 🚀 Getting Started
