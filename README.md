@@ -41,7 +41,7 @@ Portfolio/
 Check out a quick walkthrough of the portfolio functionality:
 
 
-[Watch the Demo Video](Portfolio-Demo.mp4)
+[Watch the Demo Video](https://github.com/Shraa98/Portfolio/raw/main/Portfolio-Demo.mp4)
 
 *(Click the link above to view the demo video)*
 
