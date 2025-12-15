@@ -39,9 +39,9 @@ Portfolio/
 ## 🎥 Demo Video
 
 Check out a quick walkthrough of the portfolio functionality:
+https://github.com/user-attachments/assets/d3a18cf1-cf1f-491b-a905-bf18874dffcb
 
 
-[Watch the Demo Video](Portfolio-Demo.mp4)
 
 *(Click the link above to view the demo video)*
 
