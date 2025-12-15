@@ -1,0 +1,81 @@
+/* Arrow Icon Button for Project Cards */
+.btn-view-details {
+    background: transparent;
+    color: var(--primary-color);
+    padding: 0.5rem;
+    border-radius: 50%;
+    border: 2px solid var(--primary-color);
+    cursor: pointer;
+    transition: var(--transition);
+    margin-top: 1.5rem;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-view-details svg {
+    width: 24px;
+    height: 24px;
+    transition: var(--transition);
+}
+
+.btn-view-details:hover {
+    background: var(--primary-color);
+    color: var(--black);
+    transform: translateX(5px);
+    box-shadow: 0 5px 15px rgba(252, 163, 17, 0.4);
+}
+
+.project-card:hover .btn-view-details {
+    border-color: var(--white);
+    color: var(--white);
+}
+
+.project-card:hover .btn-view-details:hover {
+    background: var(--white);
+    color: var(--black);
+    border-color: var(--white);
+}
+
+.project-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.tech-stack {
+    color: var(--primary-color);
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.project-card:hover .tech-stack {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.project-card:hover p {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+/* Skills */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.skill-category {
+    background: var(--bg-surface);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow-md);
+    flex: 1;
+    min-width: 250px;
+    border: 1px solid rgba(252, 163, 17, 0.2);
+    transition: var(--transition);
+}
