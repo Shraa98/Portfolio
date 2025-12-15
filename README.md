@@ -7,7 +7,7 @@
 
 Welcome to my personal portfolio website! This project showcases my journey as a **Data Analyst** and **Software Developer**, highlighting my skills, academic achievements, and featured projects. It is designed to be fully responsive, visually engaging, and easy to navigate.
 
-**Live Demo:** [Click here to view the live site](https://your-netlify-site-url.netlify.app) *(Update with your actual Netlify URL)*
+**Live Demo:** [Click here to view the live site](https://shravani-kairamkonda-portfolio.netlify.app/)
 
 ## ✨ Features
 
