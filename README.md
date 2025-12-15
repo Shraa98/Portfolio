@@ -1,7 +1,6 @@
 # Shravani Kairamkonda - Personal Portfolio
 
-![Portfolio Preview](assets/preview.png)
-*(Note: Add a preview image of your portfolio in an 'assets' folder and name it 'preview.png' to see it here)*
+
 
 ## 📄 Overview
 
@@ -41,8 +40,11 @@ Portfolio/
 
 Check out a quick walkthrough of the portfolio functionality:
 
-![Demo Walkthrough](path/to/demo-video.gif)
-*(Replace 'path/to/demo-video.gif' with the link to your demo video or GIF)*
+
+https://github.com/Shraa98/Portfolio/assets/your-user-id/Portfolio-Demo.mp4
+
+*(Click the file above to view the demo if it doesn't autoplay, or download `Portfolio-Demo.mp4` to view locally)*
+
 
 ## 🚀 Getting Started
 
