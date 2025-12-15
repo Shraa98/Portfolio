@@ -41,9 +41,9 @@ Portfolio/
 Check out a quick walkthrough of the portfolio functionality:
 
 
-https://github.com/Shraa98/Portfolio/assets/your-user-id/Portfolio-Demo.mp4
+[Watch the Demo Video](Portfolio-Demo.mp4)
 
-*(Click the file above to view the demo if it doesn't autoplay, or download `Portfolio-Demo.mp4` to view locally)*
+*(Note: To embed the video player directly in this README, please edit this file on GitHub.com and drag-and-drop the video file into the editor)*
 
 
 ## 🚀 Getting Started
